@@ -23,15 +23,13 @@ title: Publications
 16. Lotze, N., **Tune, S.**, Schlesewsky, M., & Bornkessel-Schlesewsky, I. (2011). Meaningful physical changes mediate lexical-semantic integration: Evidence for the interplay between top-down and bottom-up information sources in the N400. ***Neuropsychologia*** 49 (13), 3573–3582.  
 17. Bornkessel-Schlesewsky, I., Kretzschmar, F., **Tune, S.**, Wang, L., Gen, S., Philipp, M., Roehm, D., & Schlesewsky, M. (2011). Think globally: Cross-linguistic variation in electrophysiological activity during sentence comprehension. ***Brain and Language*** 117 (3), 133–152.  
 
-### Opinion pieces and reviews
-  
+### Opinion pieces and reviews  
 1. Duncan, E.S., **Tune, S.**, & Small, S.L. (2016). The Neurobiology of Language: Relevance to Linguistics. ***Yearbook of the Poznan Linguistic Meeting*** (2), 49–66.
 2. **Tune, S.** & Asaridou, S.S. (2016). Stimulating the semantic network: what can TMS tell us about the roles of the posterior middle temporal gyrus and angular gyrus? ***Journal of Neuroscience*** 36 (16), 4405–4407.  
 
-### Preprints / in preparation
-  
+### Preprints / in preparation 
 1. Kraus,F., **Tune, S.**, Obleser, J.; Herrmann, B. Neural alpha oscillations and pupil size differentially index cognitive load under competing audio-visual task conditions, bioRxiv (under review).  
 2. **Tune, S.** & Obleser, J. Two-year change in individual listening performance is independent of concurrent change in sensory encoding strength (in preparation).  
 
 ### Book chapters
-**Tune, S.** und Obleser, J. (2022). A parsimonious look at neural oscillations in speech perception. In Popper, A. und Fay, R. (Eds.). The Auditory Cognitive Neuroscience of Speech Perception: Springer Handbook of Auditory Research.  
+1. **Tune, S.** und Obleser, J. (2022). A parsimonious look at neural oscillations in speech perception. In Popper, A. und Fay, R. (Eds.). The Auditory Cognitive Neuroscience of Speech Perception: Springer Handbook of Auditory Research.  
