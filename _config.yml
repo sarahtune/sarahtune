@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Sarah Tune
+title: Neural Tunes
 
 # Your name to show in the footer
 author: Sarah Tune
@@ -21,10 +21,11 @@ author: Sarah Tune
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: 'cv'
+  Research: 'research'
+  #Blog:
+  #  - What I learned lately: "knowledge"
+  #  - What's been on my mind: "mind"
 
 ################
 # --- Logo --- #
@@ -32,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/profile_pic.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -58,7 +59,7 @@ social-network-links:
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: sarah-tune-hl
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,8 +72,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0001-9022-9965
+  google-scholar: https://scholar.google.com/citations?hl=en&user=0ZhLPRIAAAAJ
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
