@@ -21,7 +21,7 @@ author: Sarah Tune
 
 navbar-links:
   About Me: "aboutme"
-  CV: 'cv'
+  #CV: 'cv'
   Research: 'research'
   #Blog:
   #  - What I learned lately: "knowledge"
