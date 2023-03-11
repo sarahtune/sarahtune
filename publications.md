@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### Peer-reviewed original work
+  
 1. Jessen, S., Obleser, J., & **Tune, S.** (2021). Neural Tracking in Infants—an Analytical Tool for Multisensory Social Processing in Development. ***Developmental Cognitive Neuroscience***, 52, 101034. 
 2. Schmitt, L.M., Erb, J., **Tune, S.**, Rysop, A., Hartwigsen, G., Obleser, J. (2021). Predicting speech from a cortical hierarchy of event-based timescales. ***Science Advances***, 7 (49), eabi6070.  
 3. Alavash, M., **Tune, S.**, Obleser, J. (2021). Dynamic large-scale connectivity of intrinsic neural oscillations support adaptive listening in challenging conditions. ***PLOS Biology***, 19 (10), e3001410. 
@@ -23,10 +24,12 @@ title: Publications
 17. Bornkessel-Schlesewsky, I., Kretzschmar, F., **Tune, S.**, Wang, L., Gen, S., Philipp, M., Roehm, D., & Schlesewsky, M. (2011). Think globally: Cross-linguistic variation in electrophysiological activity during sentence comprehension. ***Brain and Language*** 117 (3), 133–152.  
 
 ### Opinion pieces and reviews
+  
 1. Duncan, E.S., **Tune, S.**, & Small, S.L. (2016). The Neurobiology of Language: Relevance to Linguistics. ***Yearbook of the Poznan Linguistic Meeting*** (2), 49–66.
 2. **Tune, S.** & Asaridou, S.S. (2016). Stimulating the semantic network: what can TMS tell us about the roles of the posterior middle temporal gyrus and angular gyrus? ***Journal of Neuroscience*** 36 (16), 4405–4407.  
 
 ### Preprints / in preparation
+  
 1. Kraus,F., **Tune, S.**, Obleser, J.; Herrmann, B. Neural alpha oscillations and pupil size differentially index cognitive load under competing audio-visual task conditions, bioRxiv (under review).  
 2. **Tune, S.** & Obleser, J. Two-year change in individual listening performance is independent of concurrent change in sensory encoding strength (in preparation).  
 
