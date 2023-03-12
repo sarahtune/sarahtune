@@ -21,7 +21,8 @@ title: Publications
 4. Kandylaki, K., Nagels, A., **Tune, S.**, Wiese, R., Bornkessel-Schlesewsky, I., & Kircher, T. (2015). Processing of false belief passages during natural story comprehension: an fMRI study. ***Human Brain Mapping*** 36 (11), 4231–4246.  
 3. **Tune, S.**, Schlesewsky, M., Small, S.L., Sanford, A.J., Bohan, J., Sassenhagen, J., & Bornkessel-Schlesewsky, I. (2014). Cross-linguistic variation in the neurophysiological response to semantic processing: Evidence from anomalies at the borderline of awareness. ***Neuropsychologia*** 56, 147–166.  
 2. Lotze, N., **Tune, S.**, Schlesewsky, M., & Bornkessel-Schlesewsky, I. (2011). Meaningful physical changes mediate lexical-semantic integration: Evidence for the interplay between top-down and bottom-up information sources in the N400. ***Neuropsychologia*** 49 (13), 3573–3582.  
-1. Bornkessel-Schlesewsky, I., Kretzschmar, F., **Tune, S.**, Wang, L., Gen, S., Philipp, M., Roehm, D., & Schlesewsky, M. (2011). Think globally: Cross-linguistic variation in electrophysiological activity during sentence comprehension. ***Brain and Language*** 117 (3), 133–152.  
+1. Bornkessel-Schlesewsky, I., Kretzschmar, F., **Tune, S.**, Wang, L., Gen, S., Philipp, M., Roehm, D., & Schlesewsky, M. (2011). Think globally: Cross-linguistic variation in electrophysiological activity during sentence comprehension. ***Brain and Language*** 117 (3), 133–152.
+{: reversed="reversed"}
 
 ### Opinion pieces and reviews  
 2. Duncan, E.S., **Tune, S.**, & Small, S.L. (2016). The Neurobiology of Language: Relevance to Linguistics. ***Yearbook of the Poznan Linguistic Meeting*** (2), 49–66.
