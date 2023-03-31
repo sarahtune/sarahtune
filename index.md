@@ -1,8 +1,9 @@
 ---
 ---
 
-<img src="/assets/img/logo.png" title="BRAIN logo" alt="BRAIN logo" width="75%" height="75%" />
-
+<p align="center">
+  <img src="/assets/img/logo.png" title="BRAIN logo" alt="BRAIN logo" width="75%" height="75%" />
+</p>
 
 This includes packages specifically designed for handling, visualising, and
 analysing outbreak data using cutting-edge statistical methods, as well as more
