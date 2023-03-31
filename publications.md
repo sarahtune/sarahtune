@@ -6,9 +6,9 @@ title: Publications
 ### Peer-reviewed original work
   
 17. Jessen, S., Obleser, J., & **Tune, S.** (2021). Neural Tracking in Infants—an Analytical Tool for Multisensory Social Processing in Development. [***Developmental Cognitive Neuroscience***](https://www.sciencedirect.com/science/article/pii/S1878929321001237), 52, 101034. 
-16. Schmitt, L.M., Erb, J., **Tune, S.**, Rysop, A., Hartwigsen, G., Obleser, J. (2021). Predicting speech from a cortical hierarchy of event-based timescales. ***Science Advances***, 7 (49), eabi6070.  
-15. Alavash, M., **Tune, S.**, Obleser, J. (2021). Dynamic large-scale connectivity of intrinsic neural oscillations support adaptive listening in challenging conditions. ***PLOS Biology***, 19 (10), e3001410. 
-14. **Tune, S.**, Fiedler, L., Alavash, M., & Obleser, J. (2021). Neural attentional-filter mechanisms of listening success in middle-aged and older individuals. ***Nature Communications*** 12 (1), 1-14. 
+16. Schmitt, L.M., Erb, J., **Tune, S.**, Rysop, A., Hartwigsen, G., Obleser, J. (2021). Predicting speech from a cortical hierarchy of event-based timescales. [***Science Advances***](https://www.science.org/doi/10.1126/sciadv.abi6070), 7 (49), eabi6070.  
+15. Alavash, M., **Tune, S.**, Obleser, J. (2021). Dynamic large-scale connectivity of intrinsic neural oscillations support adaptive listening in challenging conditions. [***PLOS Biology***](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001410), 19 (10), e3001410. 
+14. **Tune, S.**, Fiedler, L., Alavash, M., & Obleser, J. (2021). Neural attentional-filter mechanisms of listening success in middle-aged and older individuals. [***Nature Communications***](https://www.nature.com/articles/s41467-021-24771-9) 12 (1), 1-14. 
 13. Kraus, F., **Tune, S.**, Ruhe, A., Obleser, J., & Wöstmann, M. (2021). Unilateral acoustic degradation delays attentional separation of competing speech. ***Trends in Hearing***, 25, 1–13.  
 12. Obleser, J. , Kreitewolf, J, Vielhauer, R., Lindner, f., David, C., Oster, H., & **Tune, S.** (2021). Circadian fluctuations in glucocorticoid level predict perceptual discrimination sensitivity. ***iScience***, 102345.  
 11. Waschke, L., **Tune, S.**, & Obleser, J. (2019). Local cortical desynchronization and pupil-linked arousal differentially shape brain states for optimal sensory performance. ***Elife***, 8:e51501.  
