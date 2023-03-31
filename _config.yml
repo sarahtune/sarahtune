@@ -137,7 +137,7 @@ hover-col: "RoyalBlue"
 footer-col: "#162A35"
 footer-text-col: "#777777"
 footer-link-col: "#EAEAEA"
-footer-hover-col: "D12658"
+footer-hover-col: "#D12658"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
