@@ -33,4 +33,4 @@ title: Publications
 1. **Tune, S.** & Obleser, J. Two-year change in individual listening performance is independent of concurrent change in sensory encoding strength (in preparation).  
 
 ### Book chapters
-1. **Tune, S.** und Obleser, J. (2022). A parsimonious look at neural oscillations in speech perception. In Popper, A. und Fay, R. (Eds.). The Auditory Cognitive Neuroscience of Speech Perception: Springer Handbook of Auditory Research.  
+1. **Tune, S.** und Obleser, J. (2022). A parsimonious look at neural oscillations in speech perception. In Popper, A. und Fay, R. (Eds.). The Auditory Cognitive Neuroscience of Speech Perception: Springer Handbook of Auditory Research.
