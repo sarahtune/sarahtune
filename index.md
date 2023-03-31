@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="/assets/img/logo.png" title="BRAIN logo" alt="BRAIN logo" />
+<img src="/assets/img/logo.png" title="BRAIN logo" alt="BRAIN logo" width="75%" height="75%" />
 
 
 This includes packages specifically designed for handling, visualising, and
