@@ -5,7 +5,7 @@ title: Publications
 
 ### Peer-reviewed original work
   
-17. Jessen, S., Obleser, J., & **Tune, S.** (2021). Neural Tracking in Infants—an Analytical Tool for Multisensory Social Processing in Development. ***Developmental Cognitive Neuroscience***, 52, 101034. 
+17. Jessen, S., Obleser, J., & **Tune, S.** (2021). Neural Tracking in Infants—an Analytical Tool for Multisensory Social Processing in Development. [***Developmental Cognitive Neuroscience***](https://www.sciencedirect.com/science/article/pii/S1878929321001237), 52, 101034. 
 16. Schmitt, L.M., Erb, J., **Tune, S.**, Rysop, A., Hartwigsen, G., Obleser, J. (2021). Predicting speech from a cortical hierarchy of event-based timescales. ***Science Advances***, 7 (49), eabi6070.  
 15. Alavash, M., **Tune, S.**, Obleser, J. (2021). Dynamic large-scale connectivity of intrinsic neural oscillations support adaptive listening in challenging conditions. ***PLOS Biology***, 19 (10), e3001410. 
 14. **Tune, S.**, Fiedler, L., Alavash, M., & Obleser, J. (2021). Neural attentional-filter mechanisms of listening success in middle-aged and older individuals. ***Nature Communications*** 12 (1), 1-14. 
