@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="/assets/img/logo.png" title="BRAIN logo" alt="BRAIN logo" width="75%" height="75%" />
+  <img src="/assets/img/logo.png" title="BRAIN logo" alt="BRAIN logo" width="50%" height="50%" />
 </p>
 
 This includes packages specifically designed for handling, visualising, and
