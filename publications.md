@@ -29,7 +29,7 @@ title: Publications
 1. **Tune, S.** & Asaridou, S.S. (2016). Stimulating the semantic network: what can TMS tell us about the roles of the posterior middle temporal gyrus and angular gyrus? [***Journal of Neuroscience***](https://www.jneurosci.org/content/36/16/4405.long) 36 (16), 4405–4407.  
 
 ### Preprints / in preparation 
-2. Kraus,F., **Tune, S.**, Obleser, J.; Herrmann, B. Neural alpha oscillations and pupil size differentially index cognitive load under competing audio-visual task conditions, bioRxiv (under review).  
+2. Kraus,F., **Tune, S.**, Obleser, J.; Herrmann, B. Neural alpha oscillations and pupil size differentially index cognitive load under competing audio-visual task conditions (accepted, Journal of Neuroscience).  
 1. **Tune, S.** & Obleser, J. Two-year change in individual listening performance is independent of concurrent change in sensory encoding strength (in preparation).  
 
 ### Book chapters
